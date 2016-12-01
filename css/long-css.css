@@ -165,7 +165,7 @@ li#menu {
 
 li#menu a {
 	display:block;
-	min-width:95px;
+	min-width:100px;
 	height: 50px;
 	text-align: center;
 	line-height: 50px;
