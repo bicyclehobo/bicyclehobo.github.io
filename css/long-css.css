@@ -162,7 +162,7 @@ li#menu {
 	margin-right: 1px;
 }
 
-/*Style for menu links unchanged
+
 li#menu a {
 	display:block;
 	min-width:95px;
@@ -176,8 +176,8 @@ li#menu a {
 	background: #f2f2f2;
 	text-decoration: none;
 }
-*/
 
+/*Style for menu links long 4 tops
 li#menu a {
 	display:block;
 	min-width:190px;
@@ -191,6 +191,7 @@ li#menu a {
 	background: #f2f2f2;
 	text-decoration: none;
 }
+*/
 
 /*Hover state for top level links*/
 li#menu:hover a {
