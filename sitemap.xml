@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//bicyclehobo.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://bicyclehobo.com/post-sitemap.xml</loc>
+		<lastmod>2016-09-14T08:42:04-05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://bicyclehobo.com/page-sitemap.xml</loc>
+		<lastmod>2015-07-31T15:22:17-05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://bicyclehobo.com/category-sitemap.xml</loc>
+		<lastmod>2016-09-14T08:42:04-05:00</lastmod>
+	</sitemap>
+</sitemapindex>
